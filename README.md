@@ -2,6 +2,8 @@ About this repository
 ==================
 This repository contains all the code samples that are shown in the videos of my REST Assured course that is part of [Test Automation University](https://testautomationu.applitools.com/).
 
+I am coding based on the  [tau-rest-assured](https://github.com/basdijkstra/tau-rest-assured/) repository
+
 What do I need to run these samples?
 ---
 A Java 8 JDK and Maven. That's it.
@@ -14,4 +16,4 @@ In those cases where the actual API could not be used (it doesn't support HTTP o
 
 Comments? Saying thanks?
 ---
-Feel free to file an issue here or send me an email at bas@ontestautomation.com.
+Feel free to file an issue here or send me an email at itqiaolin@163.com.
